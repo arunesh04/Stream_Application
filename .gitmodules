@@ -1,0 +1,3 @@
+[submodule "Stream_Application_Infra"]
+	path = Stream_Application_Infra
+	url = https://github.com/arunesh04/Stream_Application_Infra.git
